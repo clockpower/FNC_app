@@ -63,3 +63,14 @@ https://expo.dev/accounts/unoestellar/projects/my-app/builds/2ce24491-f176-439a-
 # 마크다운에  QR코드 복붙했는데 prettier 때문에 계속 엉켜져서 
 ## .prettierignore 루트위치에 생성 후 
 ##  *.md  추가함.
+
+
+
+
+
+
+# 웹뷰를 추가함 
+## 참고링크 : https://docs.expo.dev/versions/latest/sdk/webview/ 
+npx expo install react-native-webview
+
+
